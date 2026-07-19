@@ -6,12 +6,12 @@
   const button = document.createElement('button')
   button.textContent = '田';
   button.addEventListener('click', () => {
-    const video = document.querySelector('#video');
+    const video = document.querySelector('video#video');
     video.style.transform = '';
   });
 
   const insert = () => {
-    const mabtn = document.querySelector('.multiangle-button');
+    const mabtn = document.querySelector('button.multiangle-button');
     return mabtn?.insertAdjacentElement('afterend', button)
   };
 

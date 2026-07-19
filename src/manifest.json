@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Z-aN multiangle 田",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Add a 田 button to Z-aN's multi-angle streaming so that all angles can be viewed at the same time.",
   "icons": {
     "16": "icons/icon16.png",
