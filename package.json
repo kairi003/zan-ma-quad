@@ -3,7 +3,7 @@
   "version": "0.1.1",
   "description": "Add a 田 button to Z-aN's multi-angle streaming so that all angles can be viewed at the same time.",
   "scripts": {
-    "build": "cd src && bestzip ../zan-ma-quad.zip *"
+    "build": "cd src && bestzip ../zan-ma-quad.zip * ../LICENSE"
   },
   "devDependencies": {
     "@types/chrome": "^0.1.42",
